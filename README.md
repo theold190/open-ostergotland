@@ -26,6 +26,12 @@ Mjölby municipality
 ------------------
 * [Open data from Mjölby municipality](https://www.mjolby.se//psidata)
 
+Norrköping municipality
+-----------------------
+* [Open data from Sjöfartsverket](http://www.sjofartsverket.se/psidata)
+* [Open data from SMHI](https://www.smhi.se/data/oppna-data)
+* [Website for CoderDojo Norrköping](https://github.com/CoderDojoNKPG/CoderDojoNKPG)
+
 Söderköping municipality
 ------------------
 * [Open data from Söderköping municipality](https://www.soderkoping.se/oppna-data/)
