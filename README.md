@@ -1,4 +1,4 @@
-Östergötland's open source and open data
+Östergötland's open source and open data ![Check links](https://github.com/theold190/open-ostergotland/workflows/Check%20links/badge.svg?event=schedule)
 ========================================
 
 Here are some of [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland)'s open source and open data projects and resources. The list is for sure not complete and is a work in progress. Feel free to share the information with others.
