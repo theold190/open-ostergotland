@@ -5,14 +5,38 @@ Here are some of [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B
 
 To update the list, please create a pull request or contact me. If you would like to support the work on the list, you can donate via [PayPal](https://www.paypal.me/olegkrasnukhin).
 
-Linköping
----------
+Finspång municipality
+---------------------
+* [Open data from Finspång municipality](https://www.finspang.se/psidata/)
+
+Kinda municipality
+------------------
+* [Open data from Kinda municipality](https://www.kinda.se/psidata)
+
+Linköping municipality
+----------------------
 * Linköping university
   * [Course material and research projects from division of Statistics and Machine Learning](https://github.com/STIMALiU)
   * [Hopsan simulation tool from division of Fluid and mechatronic systems](https://github.com/Hopsan/hopsan)
 * [Open data from Linköping municipality](https://www.linkoping.se/open/)
 * [Open data from Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
 * [Open source library from Zenterio](https://github.com/Zenterio)
+
+Mjölby municipality
+------------------
+* [Open data from Mjölby municipality](https://www.mjolby.se//psidata)
+
+Söderköping municipality
+------------------
+* [Open data from Söderköping municipality](https://www.soderkoping.se/oppna-data/)
+
+Åtvidaberg municipality
+-----------------------
+* [Open data from Åtvidaberg municipality](https://www.atvidaberg.se/kommun-och-politik/kommunfakta/oppna-data)
+
+Ödeshög municipality
+------------------
+* [Open data from Ödeshög municipality](https://www.odeshog.se/kommunpolitik/kvalitetochstatistik/oppnadata.4.2c80a5d6168dd17255c594d.html)
 
 Östergötland county
 -------------------
