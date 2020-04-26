@@ -5,15 +5,15 @@ Here are some of [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B
 
 To update the list, please create a pull request or contact me. If you would like to support the work on the list, you can donate via [PayPal](https://www.paypal.me/olegkrasnukhin).
 
-Finspång municipality
+Finspång
 ---------------------
 * [Open data from Finspång municipality](https://www.finspang.se/psidata/)
 
-Kinda municipality
+Kinda
 ------------------
 * [Open data from Kinda municipality](https://www.kinda.se/psidata)
 
-Linköping municipality
+Linköping
 ----------------------
 * Linköping university
   * [Course material and research projects from division of Statistics and Machine Learning](https://github.com/STIMALiU)
@@ -22,25 +22,25 @@ Linköping municipality
 * [Open data from Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
 * [Open source library from Zenterio](https://github.com/Zenterio)
 
-Mjölby municipality
+Mjölby
 ------------------
 * [Open data from Mjölby municipality](https://www.mjolby.se//psidata)
 
-Norrköping municipality
+Norrköping
 -----------------------
 * [Open data from Sjöfartsverket](http://www.sjofartsverket.se/psidata)
 * [Open data from SMHI](https://www.smhi.se/data/oppna-data)
 * [Website for CoderDojo Norrköping](https://github.com/CoderDojoNKPG/CoderDojoNKPG)
 
-Söderköping municipality
+Söderköping
 ------------------
 * [Open data from Söderköping municipality](https://www.soderkoping.se/oppna-data/)
 
-Åtvidaberg municipality
+Åtvidaberg
 -----------------------
 * [Open data from Åtvidaberg municipality](https://www.atvidaberg.se/kommun-och-politik/kommunfakta/oppna-data)
 
-Ödeshög municipality
+Ödeshög
 ------------------
 * [Open data from Ödeshög municipality](https://www.odeshog.se/kommunpolitik/kvalitetochstatistik/oppnadata.4.2c80a5d6168dd17255c594d.html)
 
