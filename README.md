@@ -7,10 +7,14 @@ To update the list, please create a pull request or contact me. If you would lik
 
 Linköping
 ---------
-* [Open data from Linköping commun](https://www.linkoping.se/open/)
+* Linköping university
+  * [Course material and research projects from division of Statistics and Machine Learning](https://github.com/STIMALiU)
+  * [Hopsan simulation tool from division of Fluid and mechatronic systems](https://github.com/Hopsan/hopsan)
+* [Open data from Linköping municipality](https://www.linkoping.se/open/)
 * [Open data from Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
-* [Open source projects from Zenterio](https://github.com/Zenterio)
+* [Open source library from Zenterio](https://github.com/Zenterio)
 
 Östergötland county
 -------------------
+* [Open data from Länsstyrelsen Östergötland](https://www.lansstyrelsen.se/ostergotland/om-oss/om-lansstyrelsen-i-ostergotlands-lan/oppna-data.html)
 * [Open data from Region Östergötland](https://www.regionostergotland.se/Regional-utveckling/Analys-och-statistik/Oppna-data/)
