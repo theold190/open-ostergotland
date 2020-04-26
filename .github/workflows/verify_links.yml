@@ -26,5 +26,5 @@ jobs:
     - name: Run Markdown links verification
       run: |
         git clone https://github.com/tcort/markdown-link-check.git
-        npm install -g markdown-link-check
+        npm install markdown-link-check
         ./markdown-link-check/markdown-link-check "${GITHUB_WORKSPACE}/README.md"
