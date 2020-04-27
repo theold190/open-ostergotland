@@ -15,12 +15,16 @@ Kinda
 
 Linköping
 ----------------------
-* Linköping university
-  * [Course material and research projects from division of Statistics and Machine Learning](https://github.com/STIMALiU)
-  * [Hopsan simulation tool from division of Fluid and mechatronic systems](https://github.com/Hopsan/hopsan)
+* [GitHub projects from Axis Communications](https://github.com/AxisCommunications)
+* [GitHub projects from Combitech](https://github.com/Combitech)
+* [GitHub projects from Cybercom Group](https://github.com/cybercomgroup)
+* [GitHub projects from Usify](https://github.com/Usify)
 * [Open data from Linköping municipality](https://www.linkoping.se/open/)
 * [Open data from Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
 * [Open source library from Zenterio](https://github.com/Zenterio)
+* Projects from Linköping university
+  * [Course material and research projects from division of Statistics and Machine Learning](https://github.com/STIMALiU)
+  * [Hopsan simulation tool from division of Fluid and mechatronic systems](https://github.com/Hopsan/hopsan)
 
 Mjölby
 ------------------
@@ -28,6 +32,7 @@ Mjölby
 
 Norrköping
 -----------------------
+* [GitHub project from Significant Bit](https://github.com/significantbit)
 * [Open data from Sjöfartsverket](http://www.sjofartsverket.se/psidata)
 * [Open data from SMHI](https://www.smhi.se/data/oppna-data)
 * [Website for CoderDojo Norrköping](https://github.com/CoderDojoNKPG/CoderDojoNKPG)
