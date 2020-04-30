@@ -18,6 +18,7 @@ Linköping
 * [GitHub projects from Axis Communications](https://github.com/AxisCommunications)
 * [GitHub projects from Combitech](https://github.com/Combitech)
 * [GitHub projects from Cybercom Group](https://github.com/cybercomgroup)
+* [GitHub projects from Makerspace Linköping](https://github.com/makerslink)
 * [GitHub projects from Usify](https://github.com/Usify)
 * [Open data from Linköping municipality](https://www.linkoping.se/open/)
 * [Open data from Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
