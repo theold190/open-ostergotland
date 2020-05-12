@@ -16,10 +16,12 @@ Kinda
 Linköping
 ----------------------
 * [GitHub projects from Axis Communications](https://github.com/AxisCommunications)
+* [GitHub projects from Cendio](https://github.com/cendio)
 * [GitHub projects from Combitech](https://github.com/Combitech)
 * [GitHub projects from Cybercom Group](https://github.com/cybercomgroup)
 * [GitHub projects from Makerspace Linköping](https://github.com/makerslink)
 * [GitHub projects from Usify](https://github.com/Usify)
+* [GitHub projects from VisualSweden](https://github.com/VisualSweden)
 * [Open data from Linköping municipality](https://www.linkoping.se/open/)
 * [Open data from Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
 * [Open source library from Zenterio](https://github.com/Zenterio)
@@ -33,10 +35,11 @@ Mjölby
 
 Norrköping
 -----------------------
-* [GitHub project from Significant Bit](https://github.com/significantbit)
+* [GitHub projects from CoderDojo Norrköping](https://github.com/CoderDojoNKPG/CoderDojoNKPG)
+* [GitHub projects from Norrköping Linux User Group](https://github.com/nlug)
+* [GitHub projects from Significant Bit](https://github.com/significantbit)
 * [Open data from Sjöfartsverket](http://www.sjofartsverket.se/psidata)
 * [Open data from SMHI](https://www.smhi.se/data/oppna-data)
-* [Website for CoderDojo Norrköping](https://github.com/CoderDojoNKPG/CoderDojoNKPG)
 
 Söderköping
 ------------------
@@ -52,6 +55,7 @@ Söderköping
 
 Östergötland county
 -------------------
-* [GitHub project related to Region Östergötland](https://github.com/regionostergotland)
+* [GitHub projects from Kårservice Östergötland](https://github.com/karservice)
+* [GitHub projects from Region Östergötland](https://github.com/regionostergotland)
 * [Open data from Länsstyrelsen Östergötland](https://www.lansstyrelsen.se/ostergotland/om-oss/om-lansstyrelsen-i-ostergotlands-lan/oppna-data.html)
 * [Open data from Region Östergötland](https://www.regionostergotland.se/Regional-utveckling/Analys-och-statistik/Oppna-data/)
