@@ -80,4 +80,3 @@ Söderköping
 * [GitHub projects from Kårservice Östergötland](https://github.com/karservice)
 * [GitHub projects from Region Östergötland](https://github.com/regionostergotland)
 * [Open data from Länsstyrelsen Östergötland](https://www.lansstyrelsen.se/ostergotland/om-oss/om-lansstyrelsen-i-ostergotlands-lan/oppna-data.html)
-* [Open data from Region Östergötland](https://www.regionostergotland.se/Regional-utveckling/Analys-och-statistik/Oppna-data/)
