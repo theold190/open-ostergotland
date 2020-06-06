@@ -26,6 +26,7 @@ Linköping
 * [GitHub projects from Configura Sverige](https://github.com/ConfiguraAB)
 * [GitHub projects from Cybercom Sweden](https://github.com/cybercomsweden)
 * [GitHub projects from Drakryggen](https://github.com/Drakryggen)
+* [GitHub projects from DynoRobotics](https://github.com/DynoRobotics)
 * [GitHub projects from Ericsson](https://github.com/Ericsson)
 * [GitHub projects from FindOut](https://github.com/FindOut)
 * [GitHub projects from HomeQ Technologies](https://github.com/HomeQTechnologies)
