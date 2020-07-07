@@ -70,7 +70,7 @@ Söderköping
 
 Åtvidaberg
 -----------------------
-* [Open data from Åtvidaberg municipality](https://www.atvidaberg.se/kommun-och-politik/kommunfakta/oppna-data)
+* [Open data from Åtvidaberg municipality](https://www.atvidaberg.se/kommun-och-politik/kommunfakta/statistik/oppna-data)
 
 Ödeshög
 ------------------
