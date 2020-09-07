@@ -37,6 +37,7 @@ Linköping
 * [Metria](https://github.com/MetriaAB)
 * [MindRoad](https://github.com/MindRoadAB)
 * [Modio](https://github.com/ModioAB)
+* [National Supercomputer Centre (Sweden)](https://github.com/snic-nsc)
 * [NIRA Dynamics](https://github.com/niradynamics)
 * [Qamcom Research & Technology](https://github.com/qamcom)
 * [Reach Consulting](https://github.com/reachconsulting)
