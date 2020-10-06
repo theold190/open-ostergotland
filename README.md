@@ -45,6 +45,7 @@ Linköping
 * [Sylog](https://github.com/Sylog)
 * [Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
 * [Usify](https://github.com/Usify)
+* [Vertel](https://github.com/vertelab)
 * [Viaplay](https://github.com/viaplay)
 * [VisualSweden](https://github.com/VisualSweden)
 * [WISI Norden](https://github.com/wisinorden)
