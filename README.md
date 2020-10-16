@@ -42,6 +42,7 @@ Linköping
 * [Qamcom Research & Technology](https://github.com/qamcom)
 * [Reach Consulting](https://github.com/reachconsulting)
 * [Semcon](https://github.com/Semcon)
+* [Svava](https://github.com/SvavaApp) and [Idea Hunt](https://github.com/idea-hunt)
 * [Sylog](https://github.com/Sylog)
 * [Tekniska verken](https://www.tekniskaverken.se/om-oss/innovation/opendata/)
 * [Usify](https://github.com/Usify)
@@ -60,7 +61,9 @@ Mjölby
 
 Norrköping
 -----------------------
+* [Arctic Bit](https://github.com/arcticbit)
 * [CoderDojo Norrköping](https://github.com/CoderDojoNKPG/CoderDojoNKPG)
+* [Desquare](https://github.com/desquareab)
 * [Norrköping Linux User Group](https://github.com/nlug)
 * [Significant Bit](https://github.com/significantbit)
 * [Sjöfartsverket](http://www.sjofartsverket.se/psidata)
